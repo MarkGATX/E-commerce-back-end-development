@@ -67,7 +67,7 @@ ___
 
 
 ## Credits
-Big thanks to [Preston](https://github.com/chewy441014) for helping me to navigate some of the intricacies of SQL relationships and sequelize. 
+Big thanks to [@chewy441014](https://github.com/chewy441014) for helping me to navigate some of the intricacies of SQL relationships and sequelize. 
 
 Thanks to Leah, Ian, Diem, Negin, and all the other students who keep teaching and talking us through all the twists and turns of coding.
 
